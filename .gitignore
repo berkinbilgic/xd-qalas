@@ -10,3 +10,7 @@
 !/Qalas_Inversion_Efficiency_Toolbox_v4/nii_output/.gitkeep
 /exp102326_MEQALAS_NIfTIITIs/me_qalas_fb_nii_output/*
 !/exp102326_MEQALAS_NIfTIITIs/me_qalas_fb_nii_output/.gitkeep
+
+# raw-data readers, not needed for mapping
+/mapVBVD-PMU/
+/read_log/
